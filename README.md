@@ -20,14 +20,26 @@ Code, configurations, split IDs and machine-readable results for Programming Ass
 .
 ├── README.md
 ├── ATML_PA3_Report.pdf
-├── report/                          # LaTeX source of the report (NeurIPS 2024 preprint style)
 ├── ATML_PA3_Task1_LLM_FineTuning.ipynb
 ├── ATML_PA3_Task2_VLM_Grounding.ipynb
 ├── ATML_PA3_Task3_TestTime_Compute.ipynb
-└── results/
-    ├── task1/   data/  eval/  runs/  diagnostics/  qualitative/  results/
-    ├── task2/   data/  runs/tok196/
-    └── task3/   cache/  offline/  live/  adaptive/  figures/
+├── report/              # LaTeX source of the report (NeurIPS 2024 preprint style)
+├── task1/               # Task 1 results
+│   ├── data/
+│   ├── eval/
+│   ├── runs/
+│   ├── diagnostics/
+│   ├── qualitative/
+│   └── results/
+├── task2/               # Task 2 results
+│   ├── data/
+│   └── runs/tok196/
+└── task3/               # Task 3 results
+    ├── cache/
+    ├── offline/
+    ├── live/
+    ├── adaptive/
+    └── figures/
 ```
 
 `results/` mirrors the folders the notebooks write to Google Drive (`MyDrive/ATML_PA3/task{1,2,3}/`). The section [What is (and is not) in `results/`](#what-is-and-is-not-in-results) lists exactly which files are included.
