@@ -1,0 +1,26 @@
+{
+  "condition": "baseline",
+  "task": "hellaswag",
+  "primary_metric": "acc_norm,none",
+  "primary": 0.47341167098187614,
+  "metrics": {
+    "sample_len": 10042,
+    "acc,none": 0.37562238597888864,
+    "acc_stderr,none": 0.0048329345291214295,
+    "acc_norm,none": 0.47341167098187614,
+    "acc_norm_stderr,none": 0.004982721472407312
+  },
+  "n": 10042,
+  "eval_time_s": 137.56795167922974,
+  "lm_eval_config": {
+    "model": "Qwen/Qwen3-0.6B",
+    "model_num_parameters": 596049920,
+    "model_revision": "main",
+    "model_sha": "",
+    "bootstrap_iters": 100000,
+    "random_seed": 6304,
+    "numpy_seed": 6304,
+    "torch_seed": 6304,
+    "fewshot_seed": 6304
+  }
+}

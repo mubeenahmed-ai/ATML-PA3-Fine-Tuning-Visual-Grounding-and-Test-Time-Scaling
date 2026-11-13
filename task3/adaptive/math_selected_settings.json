@@ -1,0 +1,16 @@
+{
+ "agreement": {
+  "tau": 0.625,
+  "gamma": null,
+  "fallback32": false,
+  "acc": 0.826,
+  "cost": 7088.9555
+ },
+ "quality": {
+  "tau": 0.5,
+  "gamma": 0.0,
+  "fallback32": false,
+  "acc": 0.8215,
+  "cost": 5479.528499999999
+ }
+}

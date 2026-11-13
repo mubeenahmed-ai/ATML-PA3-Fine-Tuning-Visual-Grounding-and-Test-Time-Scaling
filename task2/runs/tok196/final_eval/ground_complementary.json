@@ -1,0 +1,1922 @@
+[
+ {
+  "ex": 45472,
+  "pair_id": "pres_val_11_391161_105975",
+  "qtype": "presence",
+  "img": "val2014/391161",
+  "image_used": "val2014/105975",
+  "question": "Does this image contain a fire hydrant?",
+  "target": "yes",
+  "refs": [
+   "yes"
+  ],
+  "pred": "no",
+  "nll": 3.4090335369110107,
+  "gen_time_s": 0.03372746706008911
+ },
+ {
+  "ex": 45473,
+  "pair_id": "pres_val_11_391161_105975",
+  "qtype": "presence",
+  "img": "val2014/105975",
+  "image_used": "val2014/391161",
+  "question": "Does this image contain a fire hydrant?",
+  "target": "no",
+  "refs": [
+   "no"
+  ],
+  "pred": "yes",
+  "nll": 4.681333065032959,
+  "gen_time_s": 0.03372746706008911
+ },
+ {
+  "ex": 45474,
+  "pair_id": "pres_val_88_353505_186991",
+  "qtype": "presence",
+  "img": "val2014/353505",
+  "image_used": "val2014/186991",
+  "question": "Does this image contain a teddy bear?",
+  "target": "yes",
+  "refs": [
+   "yes"
+  ],
+  "pred": "no",
+  "nll": 5.644237995147705,
+  "gen_time_s": 0.03372746706008911
+ },
+ {
+  "ex": 45475,
+  "pair_id": "pres_val_88_353505_186991",
+  "qtype": "presence",
+  "img": "val2014/186991",
+  "image_used": "val2014/353505",
+  "question": "Does this image contain a teddy bear?",
+  "target": "no",
+  "refs": [
+   "no"
+  ],
+  "pred": "yes",
+  "nll": 6.798072814941406,
+  "gen_time_s": 0.03372746706008911
+ },
+ {
+  "ex": 45476,
+  "pair_id": "pres_val_28_302520_298697",
+  "qtype": "presence",
+  "img": "val2014/302520",
+  "image_used": "val2014/298697",
+  "question": "Does this image contain an umbrella?",
+  "target": "yes",
+  "refs": [
+   "yes"
+  ],
+  "pred": "no",
+  "nll": 3.8345282077789307,
+  "gen_time_s": 0.03372746706008911
+ },
+ {
+  "ex": 45477,
+  "pair_id": "pres_val_28_302520_298697",
+  "qtype": "presence",
+  "img": "val2014/298697",
+  "image_used": "val2014/302520",
+  "question": "Does this image contain an umbrella?",
+  "target": "no",
+  "refs": [
+   "no"
+  ],
+  "pred": "yes",
+  "nll": 4.310637950897217,
+  "gen_time_s": 0.03372746706008911
+ },
+ {
+  "ex": 45478,
+  "pair_id": "pres_val_70_512966_269964",
+  "qtype": "presence",
+  "img": "val2014/512966",
+  "image_used": "val2014/269964",
+  "question": "Does this image contain a toilet?",
+  "target": "yes",
+  "refs": [
+   "yes"
+  ],
+  "pred": "no",
+  "nll": 3.8498711585998535,
+  "gen_time_s": 0.03372746706008911
+ },
+ {
+  "ex": 45479,
+  "pair_id": "pres_val_70_512966_269964",
+  "qtype": "presence",
+  "img": "val2014/269964",
+  "image_used": "val2014/512966",
+  "question": "Does this image contain a toilet?",
+  "target": "no",
+  "refs": [
+   "no"
+  ],
+  "pred": "yes",
+  "nll": 4.449378967285156,
+  "gen_time_s": 0.03372746706008911
+ },
+ {
+  "ex": 45480,
+  "pair_id": "pres_val_73_542509_191919",
+  "qtype": "presence",
+  "img": "val2014/542509",
+  "image_used": "val2014/191919",
+  "question": "Does this image contain a laptop?",
+  "target": "yes",
+  "refs": [
+   "yes"
+  ],
+  "pred": "no",
+  "nll": 6.283161640167236,
+  "gen_time_s": 0.04047924280166626
+ },
+ {
+  "ex": 45481,
+  "pair_id": "pres_val_73_542509_191919",
+  "qtype": "presence",
+  "img": "val2014/191919",
+  "image_used": "val2014/542509",
+  "question": "Does this image contain a laptop?",
+  "target": "no",
+  "refs": [
+   "no"
+  ],
+  "pred": "yes",
+  "nll": 1.7532919645309448,
+  "gen_time_s": 0.04047924280166626
+ },
+ {
+  "ex": 45482,
+  "pair_id": "pres_val_62_277440_248224",
+  "qtype": "presence",
+  "img": "val2014/277440",
+  "image_used": "val2014/248224",
+  "question": "Does this image contain a chair?",
+  "target": "yes",
+  "refs": [
+   "yes"
+  ],
+  "pred": "no",
+  "nll": 3.0637331008911133,
+  "gen_time_s": 0.04047924280166626
+ },
+ {
+  "ex": 45483,
+  "pair_id": "pres_val_62_277440_248224",
+  "qtype": "presence",
+  "img": "val2014/248224",
+  "image_used": "val2014/277440",
+  "question": "Does this image contain a chair?",
+  "target": "no",
+  "refs": [
+   "no"
+  ],
+  "pred": "yes",
+  "nll": 1.7144731283187866,
+  "gen_time_s": 0.04047924280166626
+ },
+ {
+  "ex": 45484,
+  "pair_id": "pres_val_54_19491_157593",
+  "qtype": "presence",
+  "img": "val2014/19491",
+  "image_used": "val2014/157593",
+  "question": "Does this image contain a sandwich?",
+  "target": "yes",
+  "refs": [
+   "yes"
+  ],
+  "pred": "no",
+  "nll": 4.526613712310791,
+  "gen_time_s": 0.04047924280166626
+ },
+ {
+  "ex": 45485,
+  "pair_id": "pres_val_54_19491_157593",
+  "qtype": "presence",
+  "img": "val2014/157593",
+  "image_used": "val2014/19491",
+  "question": "Does this image contain a sandwich?",
+  "target": "no",
+  "refs": [
+   "no"
+  ],
+  "pred": "yes",
+  "nll": 3.5299072265625,
+  "gen_time_s": 0.04047924280166626
+ },
+ {
+  "ex": 45486,
+  "pair_id": "pres_val_50_413551_78194",
+  "qtype": "presence",
+  "img": "val2014/413551",
+  "image_used": "val2014/78194",
+  "question": "Does this image contain a spoon?",
+  "target": "yes",
+  "refs": [
+   "yes"
+  ],
+  "pred": "no",
+  "nll": 2.0453407764434814,
+  "gen_time_s": 0.04047924280166626
+ },
+ {
+  "ex": 45487,
+  "pair_id": "pres_val_50_413551_78194",
+  "qtype": "presence",
+  "img": "val2014/78194",
+  "image_used": "val2014/413551",
+  "question": "Does this image contain a spoon?",
+  "target": "no",
+  "refs": [
+   "no"
+  ],
+  "pred": "yes",
+  "nll": 2.4643051624298096,
+  "gen_time_s": 0.04047924280166626
+ },
+ {
+  "ex": 45488,
+  "pair_id": "pres_val_44_397352_454195",
+  "qtype": "presence",
+  "img": "val2014/397352",
+  "image_used": "val2014/454195",
+  "question": "Does this image contain a bottle?",
+  "target": "yes",
+  "refs": [
+   "yes"
+  ],
+  "pred": "no",
+  "nll": 2.294184923171997,
+  "gen_time_s": 0.0340370237827301
+ },
+ {
+  "ex": 45489,
+  "pair_id": "pres_val_44_397352_454195",
+  "qtype": "presence",
+  "img": "val2014/454195",
+  "image_used": "val2014/397352",
+  "question": "Does this image contain a bottle?",
+  "target": "no",
+  "refs": [
+   "no"
+  ],
+  "pred": "no",
+  "nll": 0.10356326401233673,
+  "gen_time_s": 0.0340370237827301
+ },
+ {
+  "ex": 45490,
+  "pair_id": "pres_val_77_439773_305142",
+  "qtype": "presence",
+  "img": "val2014/439773",
+  "image_used": "val2014/305142",
+  "question": "Does this image contain a cell phone?",
+  "target": "yes",
+  "refs": [
+   "yes"
+  ],
+  "pred": "no",
+  "nll": 4.002959728240967,
+  "gen_time_s": 0.0340370237827301
+ },
+ {
+  "ex": 45491,
+  "pair_id": "pres_val_77_439773_305142",
+  "qtype": "presence",
+  "img": "val2014/305142",
+  "image_used": "val2014/439773",
+  "question": "Does this image contain a cell phone?",
+  "target": "no",
+  "refs": [
+   "no"
+  ],
+  "pred": "yes",
+  "nll": 4.743215560913086,
+  "gen_time_s": 0.0340370237827301
+ },
+ {
+  "ex": 45492,
+  "pair_id": "pres_val_81_89391_115300",
+  "qtype": "presence",
+  "img": "val2014/89391",
+  "image_used": "val2014/115300",
+  "question": "Does this image contain a sink?",
+  "target": "yes",
+  "refs": [
+   "yes"
+  ],
+  "pred": "no",
+  "nll": 3.1833224296569824,
+  "gen_time_s": 0.0340370237827301
+ },
+ {
+  "ex": 45493,
+  "pair_id": "pres_val_81_89391_115300",
+  "qtype": "presence",
+  "img": "val2014/115300",
+  "image_used": "val2014/89391",
+  "question": "Does this image contain a sink?",
+  "target": "no",
+  "refs": [
+   "no"
+  ],
+  "pred": "yes",
+  "nll": 2.2661190032958984,
+  "gen_time_s": 0.0340370237827301
+ },
+ {
+  "ex": 45494,
+  "pair_id": "pres_val_65_463669_428786",
+  "qtype": "presence",
+  "img": "val2014/463669",
+  "image_used": "val2014/428786",
+  "question": "Does this image contain a bed?",
+  "target": "yes",
+  "refs": [
+   "yes"
+  ],
+  "pred": "no",
+  "nll": 3.16821026802063,
+  "gen_time_s": 0.0340370237827301
+ },
+ {
+  "ex": 45495,
+  "pair_id": "pres_val_65_463669_428786",
+  "qtype": "presence",
+  "img": "val2014/428786",
+  "image_used": "val2014/463669",
+  "question": "Does this image contain a bed?",
+  "target": "no",
+  "refs": [
+   "no"
+  ],
+  "pred": "yes",
+  "nll": 2.2801709175109863,
+  "gen_time_s": 0.0340370237827301
+ },
+ {
+  "ex": 45496,
+  "pair_id": "pres_val_28_253964_323827",
+  "qtype": "presence",
+  "img": "val2014/253964",
+  "image_used": "val2014/323827",
+  "question": "Does this image contain an umbrella?",
+  "target": "yes",
+  "refs": [
+   "yes"
+  ],
+  "pred": "no",
+  "nll": 2.5361249446868896,
+  "gen_time_s": 0.032241225242614746
+ },
+ {
+  "ex": 45497,
+  "pair_id": "pres_val_28_253964_323827",
+  "qtype": "presence",
+  "img": "val2014/323827",
+  "image_used": "val2014/253964",
+  "question": "Does this image contain an umbrella?",
+  "target": "no",
+  "refs": [
+   "no"
+  ],
+  "pred": "yes",
+  "nll": 1.663764476776123,
+  "gen_time_s": 0.032241225242614746
+ },
+ {
+  "ex": 45498,
+  "pair_id": "pres_val_31_296381_223426",
+  "qtype": "presence",
+  "img": "val2014/296381",
+  "image_used": "val2014/223426",
+  "question": "Does this image contain a handbag?",
+  "target": "yes",
+  "refs": [
+   "yes"
+  ],
+  "pred": "no",
+  "nll": 3.0191683769226074,
+  "gen_time_s": 0.032241225242614746
+ },
+ {
+  "ex": 45499,
+  "pair_id": "pres_val_31_296381_223426",
+  "qtype": "presence",
+  "img": "val2014/223426",
+  "image_used": "val2014/296381",
+  "question": "Does this image contain a handbag?",
+  "target": "no",
+  "refs": [
+   "no"
+  ],
+  "pred": "no",
+  "nll": 0.0879678726196289,
+  "gen_time_s": 0.032241225242614746
+ },
+ {
+  "ex": 45500,
+  "pair_id": "pres_val_70_2388_17714",
+  "qtype": "presence",
+  "img": "val2014/2388",
+  "image_used": "val2014/17714",
+  "question": "Does this image contain a toilet?",
+  "target": "yes",
+  "refs": [
+   "yes"
+  ],
+  "pred": "no",
+  "nll": 5.162115097045898,
+  "gen_time_s": 0.032241225242614746
+ },
+ {
+  "ex": 45501,
+  "pair_id": "pres_val_70_2388_17714",
+  "qtype": "presence",
+  "img": "val2014/17714",
+  "image_used": "val2014/2388",
+  "question": "Does this image contain a toilet?",
+  "target": "no",
+  "refs": [
+   "no"
+  ],
+  "pred": "yes",
+  "nll": 4.37222957611084,
+  "gen_time_s": 0.032241225242614746
+ },
+ {
+  "ex": 45502,
+  "pair_id": "pres_val_87_261182_344125",
+  "qtype": "presence",
+  "img": "val2014/261182",
+  "image_used": "val2014/344125",
+  "question": "Does this image contain scissors?",
+  "target": "yes",
+  "refs": [
+   "yes"
+  ],
+  "pred": "no",
+  "nll": 4.542077541351318,
+  "gen_time_s": 0.032241225242614746
+ },
+ {
+  "ex": 45503,
+  "pair_id": "pres_val_87_261182_344125",
+  "qtype": "presence",
+  "img": "val2014/344125",
+  "image_used": "val2014/261182",
+  "question": "Does this image contain scissors?",
+  "target": "no",
+  "refs": [
+   "no"
+  ],
+  "pred": "yes",
+  "nll": 2.871029853820801,
+  "gen_time_s": 0.032241225242614746
+ },
+ {
+  "ex": 45504,
+  "pair_id": "pres_val_73_541687_552217",
+  "qtype": "presence",
+  "img": "val2014/541687",
+  "image_used": "val2014/552217",
+  "question": "Does this image contain a laptop?",
+  "target": "yes",
+  "refs": [
+   "yes"
+  ],
+  "pred": "no",
+  "nll": 3.5754432678222656,
+  "gen_time_s": 0.032644569873809814
+ },
+ {
+  "ex": 45505,
+  "pair_id": "pres_val_73_541687_552217",
+  "qtype": "presence",
+  "img": "val2014/552217",
+  "image_used": "val2014/541687",
+  "question": "Does this image contain a laptop?",
+  "target": "no",
+  "refs": [
+   "no"
+  ],
+  "pred": "yes",
+  "nll": 5.224264621734619,
+  "gen_time_s": 0.032644569873809814
+ },
+ {
+  "ex": 45506,
+  "pair_id": "pres_val_36_489313_234633",
+  "qtype": "presence",
+  "img": "val2014/489313",
+  "image_used": "val2014/234633",
+  "question": "Does this image contain a snowboard?",
+  "target": "yes",
+  "refs": [
+   "yes"
+  ],
+  "pred": "no",
+  "nll": 4.75864839553833,
+  "gen_time_s": 0.032644569873809814
+ },
+ {
+  "ex": 45507,
+  "pair_id": "pres_val_36_489313_234633",
+  "qtype": "presence",
+  "img": "val2014/234633",
+  "image_used": "val2014/489313",
+  "question": "Does this image contain a snowboard?",
+  "target": "no",
+  "refs": [
+   "no"
+  ],
+  "pred": "yes",
+  "nll": 1.2908949851989746,
+  "gen_time_s": 0.032644569873809814
+ },
+ {
+  "ex": 45508,
+  "pair_id": "pres_val_75_332940_254568",
+  "qtype": "presence",
+  "img": "val2014/332940",
+  "image_used": "val2014/254568",
+  "question": "Does this image contain a remote?",
+  "target": "yes",
+  "refs": [
+   "yes"
+  ],
+  "pred": "no",
+  "nll": 3.3939168453216553,
+  "gen_time_s": 0.032644569873809814
+ },
+ {
+  "ex": 45509,
+  "pair_id": "pres_val_75_332940_254568",
+  "qtype": "presence",
+  "img": "val2014/254568",
+  "image_used": "val2014/332940",
+  "question": "Does this image contain a remote?",
+  "target": "no",
+  "refs": [
+   "no"
+  ],
+  "pred": "yes",
+  "nll": 5.302009582519531,
+  "gen_time_s": 0.032644569873809814
+ },
+ {
+  "ex": 45510,
+  "pair_id": "pres_val_65_479280_26398",
+  "qtype": "presence",
+  "img": "val2014/479280",
+  "image_used": "val2014/26398",
+  "question": "Does this image contain a bed?",
+  "target": "yes",
+  "refs": [
+   "yes"
+  ],
+  "pred": "no",
+  "nll": 2.492879629135132,
+  "gen_time_s": 0.032644569873809814
+ },
+ {
+  "ex": 45511,
+  "pair_id": "pres_val_65_479280_26398",
+  "qtype": "presence",
+  "img": "val2014/26398",
+  "image_used": "val2014/479280",
+  "question": "Does this image contain a bed?",
+  "target": "no",
+  "refs": [
+   "no"
+  ],
+  "pred": "yes",
+  "nll": 4.573044300079346,
+  "gen_time_s": 0.032644569873809814
+ },
+ {
+  "ex": 45512,
+  "pair_id": "pres_val_13_260020_388399",
+  "qtype": "presence",
+  "img": "val2014/260020",
+  "image_used": "val2014/388399",
+  "question": "Does this image contain a stop sign?",
+  "target": "yes",
+  "refs": [
+   "yes"
+  ],
+  "pred": "no",
+  "nll": 4.079810619354248,
+  "gen_time_s": 0.03196004033088684
+ },
+ {
+  "ex": 45513,
+  "pair_id": "pres_val_13_260020_388399",
+  "qtype": "presence",
+  "img": "val2014/388399",
+  "image_used": "val2014/260020",
+  "question": "Does this image contain a stop sign?",
+  "target": "no",
+  "refs": [
+   "no"
+  ],
+  "pred": "yes",
+  "nll": 5.25563383102417,
+  "gen_time_s": 0.03196004033088684
+ },
+ {
+  "ex": 45514,
+  "pair_id": "pres_val_31_173825_432906",
+  "qtype": "presence",
+  "img": "val2014/173825",
+  "image_used": "val2014/432906",
+  "question": "Does this image contain a handbag?",
+  "target": "yes",
+  "refs": [
+   "yes"
+  ],
+  "pred": "no",
+  "nll": 2.6516904830932617,
+  "gen_time_s": 0.03196004033088684
+ },
+ {
+  "ex": 45515,
+  "pair_id": "pres_val_31_173825_432906",
+  "qtype": "presence",
+  "img": "val2014/432906",
+  "image_used": "val2014/173825",
+  "question": "Does this image contain a handbag?",
+  "target": "no",
+  "refs": [
+   "no"
+  ],
+  "pred": "no",
+  "nll": 0.1629677563905716,
+  "gen_time_s": 0.03196004033088684
+ },
+ {
+  "ex": 45516,
+  "pair_id": "pres_val_9_43133_88983",
+  "qtype": "presence",
+  "img": "val2014/43133",
+  "image_used": "val2014/88983",
+  "question": "Does this image contain a boat?",
+  "target": "yes",
+  "refs": [
+   "yes"
+  ],
+  "pred": "no",
+  "nll": 4.0950751304626465,
+  "gen_time_s": 0.03196004033088684
+ },
+ {
+  "ex": 45517,
+  "pair_id": "pres_val_9_43133_88983",
+  "qtype": "presence",
+  "img": "val2014/88983",
+  "image_used": "val2014/43133",
+  "question": "Does this image contain a boat?",
+  "target": "no",
+  "refs": [
+   "no"
+  ],
+  "pred": "yes",
+  "nll": 5.239811420440674,
+  "gen_time_s": 0.03196004033088684
+ },
+ {
+  "ex": 45518,
+  "pair_id": "pres_val_13_44520_254807",
+  "qtype": "presence",
+  "img": "val2014/44520",
+  "image_used": "val2014/254807",
+  "question": "Does this image contain a stop sign?",
+  "target": "yes",
+  "refs": [
+   "yes"
+  ],
+  "pred": "no",
+  "nll": 0.6939815282821655,
+  "gen_time_s": 0.03196004033088684
+ },
+ {
+  "ex": 45519,
+  "pair_id": "pres_val_13_44520_254807",
+  "qtype": "presence",
+  "img": "val2014/254807",
+  "image_used": "val2014/44520",
+  "question": "Does this image contain a stop sign?",
+  "target": "no",
+  "refs": [
+   "no"
+  ],
+  "pred": "yes",
+  "nll": 6.127390384674072,
+  "gen_time_s": 0.03196004033088684
+ },
+ {
+  "ex": 45520,
+  "pair_id": "pres_val_5_64510_522065",
+  "qtype": "presence",
+  "img": "val2014/64510",
+  "image_used": "val2014/522065",
+  "question": "Does this image contain an airplane?",
+  "target": "yes",
+  "refs": [
+   "yes"
+  ],
+  "pred": "no",
+  "nll": 5.955883502960205,
+  "gen_time_s": 0.03299981355667114
+ },
+ {
+  "ex": 45521,
+  "pair_id": "pres_val_5_64510_522065",
+  "qtype": "presence",
+  "img": "val2014/522065",
+  "image_used": "val2014/64510",
+  "question": "Does this image contain an airplane?",
+  "target": "no",
+  "refs": [
+   "no"
+  ],
+  "pred": "yes",
+  "nll": 7.282007217407227,
+  "gen_time_s": 0.03299981355667114
+ },
+ {
+  "ex": 45522,
+  "pair_id": "pres_val_27_444777_504101",
+  "qtype": "presence",
+  "img": "val2014/444777",
+  "image_used": "val2014/504101",
+  "question": "Does this image contain a backpack?",
+  "target": "yes",
+  "refs": [
+   "yes"
+  ],
+  "pred": "no",
+  "nll": 2.753591299057007,
+  "gen_time_s": 0.03299981355667114
+ },
+ {
+  "ex": 45523,
+  "pair_id": "pres_val_27_444777_504101",
+  "qtype": "presence",
+  "img": "val2014/504101",
+  "image_used": "val2014/444777",
+  "question": "Does this image contain a backpack?",
+  "target": "no",
+  "refs": [
+   "no"
+  ],
+  "pred": "yes",
+  "nll": 2.7536306381225586,
+  "gen_time_s": 0.03299981355667114
+ },
+ {
+  "ex": 45524,
+  "pair_id": "pres_val_47_487385_163155",
+  "qtype": "presence",
+  "img": "val2014/487385",
+  "image_used": "val2014/163155",
+  "question": "Does this image contain a cup?",
+  "target": "yes",
+  "refs": [
+   "yes"
+  ],
+  "pred": "no",
+  "nll": 2.492934465408325,
+  "gen_time_s": 0.03299981355667114
+ },
+ {
+  "ex": 45525,
+  "pair_id": "pres_val_47_487385_163155",
+  "qtype": "presence",
+  "img": "val2014/163155",
+  "image_used": "val2014/487385",
+  "question": "Does this image contain a cup?",
+  "target": "no",
+  "refs": [
+   "no"
+  ],
+  "pred": "yes",
+  "nll": 4.356979846954346,
+  "gen_time_s": 0.03299981355667114
+ },
+ {
+  "ex": 45526,
+  "pair_id": "pres_val_42_239260_110369",
+  "qtype": "presence",
+  "img": "val2014/239260",
+  "image_used": "val2014/110369",
+  "question": "Does this image contain a surfboard?",
+  "target": "yes",
+  "refs": [
+   "yes"
+  ],
+  "pred": "no",
+  "nll": 4.0029425621032715,
+  "gen_time_s": 0.03299981355667114
+ },
+ {
+  "ex": 45527,
+  "pair_id": "pres_val_42_239260_110369",
+  "qtype": "presence",
+  "img": "val2014/110369",
+  "image_used": "val2014/239260",
+  "question": "Does this image contain a surfboard?",
+  "target": "no",
+  "refs": [
+   "no"
+  ],
+  "pred": "yes",
+  "nll": 4.17209005355835,
+  "gen_time_s": 0.03299981355667114
+ },
+ {
+  "ex": 45528,
+  "pair_id": "pres_val_88_464018_501242",
+  "qtype": "presence",
+  "img": "val2014/464018",
+  "image_used": "val2014/501242",
+  "question": "Does this image contain a teddy bear?",
+  "target": "yes",
+  "refs": [
+   "yes"
+  ],
+  "pred": "no",
+  "nll": 4.171884059906006,
+  "gen_time_s": 0.03212854266166687
+ },
+ {
+  "ex": 45529,
+  "pair_id": "pres_val_88_464018_501242",
+  "qtype": "presence",
+  "img": "val2014/501242",
+  "image_used": "val2014/464018",
+  "question": "Does this image contain a teddy bear?",
+  "target": "no",
+  "refs": [
+   "no"
+  ],
+  "pred": "yes",
+  "nll": 6.158445835113525,
+  "gen_time_s": 0.03212854266166687
+ },
+ {
+  "ex": 45530,
+  "pair_id": "pres_val_27_463836_466007",
+  "qtype": "presence",
+  "img": "val2014/463836",
+  "image_used": "val2014/466007",
+  "question": "Does this image contain a backpack?",
+  "target": "yes",
+  "refs": [
+   "yes"
+  ],
+  "pred": "yes",
+  "nll": 0.03592035919427872,
+  "gen_time_s": 0.03212854266166687
+ },
+ {
+  "ex": 45531,
+  "pair_id": "pres_val_27_463836_466007",
+  "qtype": "presence",
+  "img": "val2014/466007",
+  "image_used": "val2014/463836",
+  "question": "Does this image contain a backpack?",
+  "target": "no",
+  "refs": [
+   "no"
+  ],
+  "pred": "yes",
+  "nll": 2.2520663738250732,
+  "gen_time_s": 0.03212854266166687
+ },
+ {
+  "ex": 45532,
+  "pair_id": "pres_val_24_333887_118956",
+  "qtype": "presence",
+  "img": "val2014/333887",
+  "image_used": "val2014/118956",
+  "question": "Does this image contain a zebra?",
+  "target": "yes",
+  "refs": [
+   "yes"
+  ],
+  "pred": "no",
+  "nll": 4.403048038482666,
+  "gen_time_s": 0.03212854266166687
+ },
+ {
+  "ex": 45533,
+  "pair_id": "pres_val_24_333887_118956",
+  "qtype": "presence",
+  "img": "val2014/118956",
+  "image_used": "val2014/333887",
+  "question": "Does this image contain a zebra?",
+  "target": "no",
+  "refs": [
+   "no"
+  ],
+  "pred": "yes",
+  "nll": 6.42362642288208,
+  "gen_time_s": 0.03212854266166687
+ },
+ {
+  "ex": 45534,
+  "pair_id": "pres_val_67_356586_109888",
+  "qtype": "presence",
+  "img": "val2014/356586",
+  "image_used": "val2014/109888",
+  "question": "Does this image contain a dining table?",
+  "target": "yes",
+  "refs": [
+   "yes"
+  ],
+  "pred": "no",
+  "nll": 5.068960666656494,
+  "gen_time_s": 0.03212854266166687
+ },
+ {
+  "ex": 45535,
+  "pair_id": "pres_val_67_356586_109888",
+  "qtype": "presence",
+  "img": "val2014/109888",
+  "image_used": "val2014/356586",
+  "question": "Does this image contain a dining table?",
+  "target": "no",
+  "refs": [
+   "no"
+  ],
+  "pred": "yes",
+  "nll": 2.435945987701416,
+  "gen_time_s": 0.03212854266166687
+ },
+ {
+  "ex": 45536,
+  "pair_id": "cnt_val_49_215787_514180",
+  "qtype": "counting",
+  "img": "val2014/215787",
+  "image_used": "val2014/514180",
+  "question": "How many knives can you see?",
+  "target": "1",
+  "refs": [
+   "1"
+  ],
+  "pred": "1",
+  "nll": 0.865120530128479,
+  "gen_time_s": 0.03184366226196289
+ },
+ {
+  "ex": 45537,
+  "pair_id": "cnt_val_49_215787_514180",
+  "qtype": "counting",
+  "img": "val2014/514180",
+  "image_used": "val2014/215787",
+  "question": "How many knives can you see?",
+  "target": "3",
+  "refs": [
+   "3"
+  ],
+  "pred": "2",
+  "nll": 1.264594316482544,
+  "gen_time_s": 0.03184366226196289
+ },
+ {
+  "ex": 45538,
+  "pair_id": "cnt_val_82_139856_218205",
+  "qtype": "counting",
+  "img": "val2014/139856",
+  "image_used": "val2014/218205",
+  "question": "How many refrigerators can you see?",
+  "target": "4",
+  "refs": [
+   "4"
+  ],
+  "pred": "1",
+  "nll": 4.408082962036133,
+  "gen_time_s": 0.03184366226196289
+ },
+ {
+  "ex": 45539,
+  "pair_id": "cnt_val_82_139856_218205",
+  "qtype": "counting",
+  "img": "val2014/218205",
+  "image_used": "val2014/139856",
+  "question": "How many refrigerators can you see?",
+  "target": "2",
+  "refs": [
+   "2"
+  ],
+  "pred": "3",
+  "nll": 1.2051212787628174,
+  "gen_time_s": 0.03184366226196289
+ },
+ {
+  "ex": 45540,
+  "pair_id": "cnt_val_47_377427_121677",
+  "qtype": "counting",
+  "img": "val2014/377427",
+  "image_used": "val2014/121677",
+  "question": "How many cups can you see?",
+  "target": "4",
+  "refs": [
+   "4"
+  ],
+  "pred": "1",
+  "nll": 3.499001979827881,
+  "gen_time_s": 0.03184366226196289
+ },
+ {
+  "ex": 45541,
+  "pair_id": "cnt_val_47_377427_121677",
+  "qtype": "counting",
+  "img": "val2014/121677",
+  "image_used": "val2014/377427",
+  "question": "How many cups can you see?",
+  "target": "3",
+  "refs": [
+   "3"
+  ],
+  "pred": "3",
+  "nll": 1.25874662399292,
+  "gen_time_s": 0.03184366226196289
+ },
+ {
+  "ex": 45542,
+  "pair_id": "cnt_val_42_527480_111788",
+  "qtype": "counting",
+  "img": "val2014/527480",
+  "image_used": "val2014/111788",
+  "question": "How many surfboards can you see?",
+  "target": "1",
+  "refs": [
+   "1"
+  ],
+  "pred": "3",
+  "nll": 8.242997169494629,
+  "gen_time_s": 0.03184366226196289
+ },
+ {
+  "ex": 45543,
+  "pair_id": "cnt_val_42_527480_111788",
+  "qtype": "counting",
+  "img": "val2014/111788",
+  "image_used": "val2014/527480",
+  "question": "How many surfboards can you see?",
+  "target": "3",
+  "refs": [
+   "3"
+  ],
+  "pred": "1",
+  "nll": 3.225858449935913,
+  "gen_time_s": 0.03184366226196289
+ },
+ {
+  "ex": 45544,
+  "pair_id": "cnt_val_25_302452_459176",
+  "qtype": "counting",
+  "img": "val2014/302452",
+  "image_used": "val2014/459176",
+  "question": "How many giraffes can you see?",
+  "target": "1",
+  "refs": [
+   "1"
+  ],
+  "pred": "3",
+  "nll": 5.286163330078125,
+  "gen_time_s": 0.031763166189193726
+ },
+ {
+  "ex": 45545,
+  "pair_id": "cnt_val_25_302452_459176",
+  "qtype": "counting",
+  "img": "val2014/459176",
+  "image_used": "val2014/302452",
+  "question": "How many giraffes can you see?",
+  "target": "3",
+  "refs": [
+   "3"
+  ],
+  "pred": "1",
+  "nll": 3.1286754608154297,
+  "gen_time_s": 0.031763166189193726
+ },
+ {
+  "ex": 45546,
+  "pair_id": "cnt_val_51_457893_255950",
+  "qtype": "counting",
+  "img": "val2014/457893",
+  "image_used": "val2014/255950",
+  "question": "How many bowls can you see?",
+  "target": "2",
+  "refs": [
+   "2"
+  ],
+  "pred": "1",
+  "nll": 2.2272870540618896,
+  "gen_time_s": 0.031763166189193726
+ },
+ {
+  "ex": 45547,
+  "pair_id": "cnt_val_51_457893_255950",
+  "qtype": "counting",
+  "img": "val2014/255950",
+  "image_used": "val2014/457893",
+  "question": "How many bowls can you see?",
+  "target": "1",
+  "refs": [
+   "1"
+  ],
+  "pred": "1",
+  "nll": 0.8002564311027527,
+  "gen_time_s": 0.031763166189193726
+ },
+ {
+  "ex": 45548,
+  "pair_id": "cnt_val_61_86884_227031",
+  "qtype": "counting",
+  "img": "val2014/86884",
+  "image_used": "val2014/227031",
+  "question": "How many cakes can you see?",
+  "target": "1",
+  "refs": [
+   "1"
+  ],
+  "pred": "3",
+  "nll": 1.8782172203063965,
+  "gen_time_s": 0.031763166189193726
+ },
+ {
+  "ex": 45549,
+  "pair_id": "cnt_val_61_86884_227031",
+  "qtype": "counting",
+  "img": "val2014/227031",
+  "image_used": "val2014/86884",
+  "question": "How many cakes can you see?",
+  "target": "4",
+  "refs": [
+   "4"
+  ],
+  "pred": "1",
+  "nll": 4.978104591369629,
+  "gen_time_s": 0.031763166189193726
+ },
+ {
+  "ex": 45550,
+  "pair_id": "cnt_val_8_569030_521221",
+  "qtype": "counting",
+  "img": "val2014/569030",
+  "image_used": "val2014/521221",
+  "question": "How many trucks can you see?",
+  "target": "2",
+  "refs": [
+   "2"
+  ],
+  "pred": "1",
+  "nll": 1.7476235628128052,
+  "gen_time_s": 0.031763166189193726
+ },
+ {
+  "ex": 45551,
+  "pair_id": "cnt_val_8_569030_521221",
+  "qtype": "counting",
+  "img": "val2014/521221",
+  "image_used": "val2014/569030",
+  "question": "How many trucks can you see?",
+  "target": "3",
+  "refs": [
+   "3"
+  ],
+  "pred": "1",
+  "nll": 1.9288945198059082,
+  "gen_time_s": 0.031763166189193726
+ },
+ {
+  "ex": 45552,
+  "pair_id": "cnt_val_62_411840_91500",
+  "qtype": "counting",
+  "img": "val2014/411840",
+  "image_used": "val2014/91500",
+  "question": "How many chairs can you see?",
+  "target": "2",
+  "refs": [
+   "2"
+  ],
+  "pred": "2",
+  "nll": 0.6578913927078247,
+  "gen_time_s": 0.03348866105079651
+ },
+ {
+  "ex": 45553,
+  "pair_id": "cnt_val_62_411840_91500",
+  "qtype": "counting",
+  "img": "val2014/91500",
+  "image_used": "val2014/411840",
+  "question": "How many chairs can you see?",
+  "target": "4",
+  "refs": [
+   "4"
+  ],
+  "pred": "2",
+  "nll": 2.2283694744110107,
+  "gen_time_s": 0.03348866105079651
+ },
+ {
+  "ex": 45554,
+  "pair_id": "cnt_val_32_522727_282698",
+  "qtype": "counting",
+  "img": "val2014/522727",
+  "image_used": "val2014/282698",
+  "question": "How many ties can you see?",
+  "target": "3",
+  "refs": [
+   "3"
+  ],
+  "pred": "1",
+  "nll": 3.7663447856903076,
+  "gen_time_s": 0.03348866105079651
+ },
+ {
+  "ex": 45555,
+  "pair_id": "cnt_val_32_522727_282698",
+  "qtype": "counting",
+  "img": "val2014/282698",
+  "image_used": "val2014/522727",
+  "question": "How many ties can you see?",
+  "target": "1",
+  "refs": [
+   "1"
+  ],
+  "pred": "3",
+  "nll": 2.9006314277648926,
+  "gen_time_s": 0.03348866105079651
+ },
+ {
+  "ex": 45556,
+  "pair_id": "cnt_val_9_383678_335181",
+  "qtype": "counting",
+  "img": "val2014/383678",
+  "image_used": "val2014/335181",
+  "question": "How many boats can you see?",
+  "target": "1",
+  "refs": [
+   "1"
+  ],
+  "pred": "1",
+  "nll": 0.8080686330795288,
+  "gen_time_s": 0.03348866105079651
+ },
+ {
+  "ex": 45557,
+  "pair_id": "cnt_val_9_383678_335181",
+  "qtype": "counting",
+  "img": "val2014/335181",
+  "image_used": "val2014/383678",
+  "question": "How many boats can you see?",
+  "target": "2",
+  "refs": [
+   "2"
+  ],
+  "pred": "1",
+  "nll": 0.9409784078598022,
+  "gen_time_s": 0.03348866105079651
+ },
+ {
+  "ex": 45558,
+  "pair_id": "cnt_val_36_366822_143440",
+  "qtype": "counting",
+  "img": "val2014/366822",
+  "image_used": "val2014/143440",
+  "question": "How many snowboards can you see?",
+  "target": "3",
+  "refs": [
+   "3"
+  ],
+  "pred": "1",
+  "nll": 2.534524440765381,
+  "gen_time_s": 0.03348866105079651
+ },
+ {
+  "ex": 45559,
+  "pair_id": "cnt_val_36_366822_143440",
+  "qtype": "counting",
+  "img": "val2014/143440",
+  "image_used": "val2014/366822",
+  "question": "How many snowboards can you see?",
+  "target": "4",
+  "refs": [
+   "4"
+  ],
+  "pred": "1",
+  "nll": 4.2813615798950195,
+  "gen_time_s": 0.03348866105079651
+ },
+ {
+  "ex": 45560,
+  "pair_id": "cnt_val_72_364444_252342",
+  "qtype": "counting",
+  "img": "val2014/364444",
+  "image_used": "val2014/252342",
+  "question": "How many tvs can you see?",
+  "target": "3",
+  "refs": [
+   "3"
+  ],
+  "pred": "1",
+  "nll": 4.806748867034912,
+  "gen_time_s": 0.03181391954421997
+ },
+ {
+  "ex": 45561,
+  "pair_id": "cnt_val_72_364444_252342",
+  "qtype": "counting",
+  "img": "val2014/252342",
+  "image_used": "val2014/364444",
+  "question": "How many tvs can you see?",
+  "target": "1",
+  "refs": [
+   "1"
+  ],
+  "pred": "3",
+  "nll": 5.871148109436035,
+  "gen_time_s": 0.03181391954421997
+ },
+ {
+  "ex": 45562,
+  "pair_id": "cnt_val_85_445537_454329",
+  "qtype": "counting",
+  "img": "val2014/445537",
+  "image_used": "val2014/454329",
+  "question": "How many clocks can you see?",
+  "target": "2",
+  "refs": [
+   "2"
+  ],
+  "pred": "3",
+  "nll": 2.228013038635254,
+  "gen_time_s": 0.03181391954421997
+ },
+ {
+  "ex": 45563,
+  "pair_id": "cnt_val_85_445537_454329",
+  "qtype": "counting",
+  "img": "val2014/454329",
+  "image_used": "val2014/445537",
+  "question": "How many clocks can you see?",
+  "target": "4",
+  "refs": [
+   "4"
+  ],
+  "pred": "2",
+  "nll": 3.496969223022461,
+  "gen_time_s": 0.03181391954421997
+ },
+ {
+  "ex": 45564,
+  "pair_id": "cnt_val_52_79651_261207",
+  "qtype": "counting",
+  "img": "val2014/79651",
+  "image_used": "val2014/261207",
+  "question": "How many bananas can you see?",
+  "target": "2",
+  "refs": [
+   "2"
+  ],
+  "pred": "1",
+  "nll": 2.659789562225342,
+  "gen_time_s": 0.03181391954421997
+ },
+ {
+  "ex": 45565,
+  "pair_id": "cnt_val_52_79651_261207",
+  "qtype": "counting",
+  "img": "val2014/261207",
+  "image_used": "val2014/79651",
+  "question": "How many bananas can you see?",
+  "target": "1",
+  "refs": [
+   "1"
+  ],
+  "pred": "2",
+  "nll": 1.5274789333343506,
+  "gen_time_s": 0.03181391954421997
+ },
+ {
+  "ex": 45566,
+  "pair_id": "cnt_val_65_518326_281628",
+  "qtype": "counting",
+  "img": "val2014/518326",
+  "image_used": "val2014/281628",
+  "question": "How many beds can you see?",
+  "target": "3",
+  "refs": [
+   "3"
+  ],
+  "pred": "1",
+  "nll": 2.626995801925659,
+  "gen_time_s": 0.03181391954421997
+ },
+ {
+  "ex": 45567,
+  "pair_id": "cnt_val_65_518326_281628",
+  "qtype": "counting",
+  "img": "val2014/281628",
+  "image_used": "val2014/518326",
+  "question": "How many beds can you see?",
+  "target": "1",
+  "refs": [
+   "1"
+  ],
+  "pred": "2",
+  "nll": 1.9558978080749512,
+  "gen_time_s": 0.03181391954421997
+ },
+ {
+  "ex": 45568,
+  "pair_id": "cnt_val_24_562054_253693",
+  "qtype": "counting",
+  "img": "val2014/562054",
+  "image_used": "val2014/253693",
+  "question": "How many zebras can you see?",
+  "target": "2",
+  "refs": [
+   "2"
+  ],
+  "pred": "3",
+  "nll": 2.6492319107055664,
+  "gen_time_s": 0.03210318088531494
+ },
+ {
+  "ex": 45569,
+  "pair_id": "cnt_val_24_562054_253693",
+  "qtype": "counting",
+  "img": "val2014/253693",
+  "image_used": "val2014/562054",
+  "question": "How many zebras can you see?",
+  "target": "4",
+  "refs": [
+   "4"
+  ],
+  "pred": "2",
+  "nll": 6.765108585357666,
+  "gen_time_s": 0.03210318088531494
+ },
+ {
+  "ex": 45570,
+  "pair_id": "cnt_val_84_197792_520585",
+  "qtype": "counting",
+  "img": "val2014/197792",
+  "image_used": "val2014/520585",
+  "question": "How many books can you see?",
+  "target": "2",
+  "refs": [
+   "2"
+  ],
+  "pred": "4",
+  "nll": 2.3035430908203125,
+  "gen_time_s": 0.03210318088531494
+ },
+ {
+  "ex": 45571,
+  "pair_id": "cnt_val_84_197792_520585",
+  "qtype": "counting",
+  "img": "val2014/520585",
+  "image_used": "val2014/197792",
+  "question": "How many books can you see?",
+  "target": "1",
+  "refs": [
+   "1"
+  ],
+  "pred": "1",
+  "nll": 0.3674115836620331,
+  "gen_time_s": 0.03210318088531494
+ },
+ {
+  "ex": 45572,
+  "pair_id": "cnt_val_7_428168_362391",
+  "qtype": "counting",
+  "img": "val2014/428168",
+  "image_used": "val2014/362391",
+  "question": "How many trains can you see?",
+  "target": "1",
+  "refs": [
+   "1"
+  ],
+  "pred": "3",
+  "nll": 4.116515636444092,
+  "gen_time_s": 0.03210318088531494
+ },
+ {
+  "ex": 45573,
+  "pair_id": "cnt_val_7_428168_362391",
+  "qtype": "counting",
+  "img": "val2014/362391",
+  "image_used": "val2014/428168",
+  "question": "How many trains can you see?",
+  "target": "4",
+  "refs": [
+   "4"
+  ],
+  "pred": "2",
+  "nll": 2.789484977722168,
+  "gen_time_s": 0.03210318088531494
+ },
+ {
+  "ex": 45574,
+  "pair_id": "cnt_val_89_177262_388677",
+  "qtype": "counting",
+  "img": "val2014/177262",
+  "image_used": "val2014/388677",
+  "question": "How many hair driers can you see?",
+  "target": "2",
+  "refs": [
+   "2"
+  ],
+  "pred": "1",
+  "nll": 2.081914186477661,
+  "gen_time_s": 0.03210318088531494
+ },
+ {
+  "ex": 45575,
+  "pair_id": "cnt_val_89_177262_388677",
+  "qtype": "counting",
+  "img": "val2014/388677",
+  "image_used": "val2014/177262",
+  "question": "How many hair driers can you see?",
+  "target": "1",
+  "refs": [
+   "1"
+  ],
+  "pred": "2",
+  "nll": 0.9956162571907043,
+  "gen_time_s": 0.03210318088531494
+ },
+ {
+  "ex": 45576,
+  "pair_id": "cnt_val_8_366576_248774",
+  "qtype": "counting",
+  "img": "val2014/366576",
+  "image_used": "val2014/248774",
+  "question": "How many trucks can you see?",
+  "target": "2",
+  "refs": [
+   "2"
+  ],
+  "pred": "2",
+  "nll": 1.0073102712631226,
+  "gen_time_s": 0.032889366149902344
+ },
+ {
+  "ex": 45577,
+  "pair_id": "cnt_val_8_366576_248774",
+  "qtype": "counting",
+  "img": "val2014/248774",
+  "image_used": "val2014/366576",
+  "question": "How many trucks can you see?",
+  "target": "1",
+  "refs": [
+   "1"
+  ],
+  "pred": "1",
+  "nll": 0.918616533279419,
+  "gen_time_s": 0.032889366149902344
+ },
+ {
+  "ex": 45578,
+  "pair_id": "cnt_val_52_386553_512912",
+  "qtype": "counting",
+  "img": "val2014/386553",
+  "image_used": "val2014/512912",
+  "question": "How many bananas can you see?",
+  "target": "1",
+  "refs": [
+   "1"
+  ],
+  "pred": "1",
+  "nll": 0.24569885432720184,
+  "gen_time_s": 0.032889366149902344
+ },
+ {
+  "ex": 45579,
+  "pair_id": "cnt_val_52_386553_512912",
+  "qtype": "counting",
+  "img": "val2014/512912",
+  "image_used": "val2014/386553",
+  "question": "How many bananas can you see?",
+  "target": "3",
+  "refs": [
+   "3"
+  ],
+  "pred": "1",
+  "nll": 2.3249869346618652,
+  "gen_time_s": 0.032889366149902344
+ },
+ {
+  "ex": 45580,
+  "pair_id": "cnt_val_25_526132_364075",
+  "qtype": "counting",
+  "img": "val2014/526132",
+  "image_used": "val2014/364075",
+  "question": "How many giraffes can you see?",
+  "target": "4",
+  "refs": [
+   "4"
+  ],
+  "pred": "3",
+  "nll": 1.6089754104614258,
+  "gen_time_s": 0.032889366149902344
+ },
+ {
+  "ex": 45581,
+  "pair_id": "cnt_val_25_526132_364075",
+  "qtype": "counting",
+  "img": "val2014/364075",
+  "image_used": "val2014/526132",
+  "question": "How many giraffes can you see?",
+  "target": "2",
+  "refs": [
+   "2"
+  ],
+  "pred": "3",
+  "nll": 2.133852481842041,
+  "gen_time_s": 0.032889366149902344
+ },
+ {
+  "ex": 45582,
+  "pair_id": "cnt_val_31_216581_269358",
+  "qtype": "counting",
+  "img": "val2014/216581",
+  "image_used": "val2014/269358",
+  "question": "How many handbags can you see?",
+  "target": "4",
+  "refs": [
+   "4"
+  ],
+  "pred": "1",
+  "nll": 3.373340606689453,
+  "gen_time_s": 0.032889366149902344
+ },
+ {
+  "ex": 45583,
+  "pair_id": "cnt_val_31_216581_269358",
+  "qtype": "counting",
+  "img": "val2014/269358",
+  "image_used": "val2014/216581",
+  "question": "How many handbags can you see?",
+  "target": "3",
+  "refs": [
+   "3"
+  ],
+  "pred": "2",
+  "nll": 1.3043898344039917,
+  "gen_time_s": 0.032889366149902344
+ },
+ {
+  "ex": 45584,
+  "pair_id": "cnt_val_25_443006_574619",
+  "qtype": "counting",
+  "img": "val2014/443006",
+  "image_used": "val2014/574619",
+  "question": "How many giraffes can you see?",
+  "target": "4",
+  "refs": [
+   "4"
+  ],
+  "pred": "1",
+  "nll": 4.938940048217773,
+  "gen_time_s": 0.033532172441482544
+ },
+ {
+  "ex": 45585,
+  "pair_id": "cnt_val_25_443006_574619",
+  "qtype": "counting",
+  "img": "val2014/574619",
+  "image_used": "val2014/443006",
+  "question": "How many giraffes can you see?",
+  "target": "1",
+  "refs": [
+   "1"
+  ],
+  "pred": "4",
+  "nll": 8.208512306213379,
+  "gen_time_s": 0.033532172441482544
+ },
+ {
+  "ex": 45586,
+  "pair_id": "cnt_val_24_250758_63381",
+  "qtype": "counting",
+  "img": "val2014/250758",
+  "image_used": "val2014/63381",
+  "question": "How many zebras can you see?",
+  "target": "2",
+  "refs": [
+   "2"
+  ],
+  "pred": "1",
+  "nll": 2.7321455478668213,
+  "gen_time_s": 0.033532172441482544
+ },
+ {
+  "ex": 45587,
+  "pair_id": "cnt_val_24_250758_63381",
+  "qtype": "counting",
+  "img": "val2014/63381",
+  "image_used": "val2014/250758",
+  "question": "How many zebras can you see?",
+  "target": "1",
+  "refs": [
+   "1"
+  ],
+  "pred": "1",
+  "nll": 0.6542452573776245,
+  "gen_time_s": 0.033532172441482544
+ },
+ {
+  "ex": 45588,
+  "pair_id": "cnt_val_48_353935_98054",
+  "qtype": "counting",
+  "img": "val2014/353935",
+  "image_used": "val2014/98054",
+  "question": "How many forks can you see?",
+  "target": "2",
+  "refs": [
+   "2"
+  ],
+  "pred": "1",
+  "nll": 0.8440843820571899,
+  "gen_time_s": 0.033532172441482544
+ },
+ {
+  "ex": 45589,
+  "pair_id": "cnt_val_48_353935_98054",
+  "qtype": "counting",
+  "img": "val2014/98054",
+  "image_used": "val2014/353935",
+  "question": "How many forks can you see?",
+  "target": "1",
+  "refs": [
+   "1"
+  ],
+  "pred": "2",
+  "nll": 1.3886709213256836,
+  "gen_time_s": 0.033532172441482544
+ },
+ {
+  "ex": 45590,
+  "pair_id": "cnt_val_80_308507_543090",
+  "qtype": "counting",
+  "img": "val2014/308507",
+  "image_used": "val2014/543090",
+  "question": "How many toasters can you see?",
+  "target": "1",
+  "refs": [
+   "1"
+  ],
+  "pred": "2",
+  "nll": 1.4020814895629883,
+  "gen_time_s": 0.033532172441482544
+ },
+ {
+  "ex": 45591,
+  "pair_id": "cnt_val_80_308507_543090",
+  "qtype": "counting",
+  "img": "val2014/543090",
+  "image_used": "val2014/308507",
+  "question": "How many toasters can you see?",
+  "target": "2",
+  "refs": [
+   "2"
+  ],
+  "pred": "1",
+  "nll": 1.1531198024749756,
+  "gen_time_s": 0.033532172441482544
+ },
+ {
+  "ex": 45592,
+  "pair_id": "cnt_val_67_146358_200234",
+  "qtype": "counting",
+  "img": "val2014/146358",
+  "image_used": "val2014/200234",
+  "question": "How many dining tables can you see?",
+  "target": "1",
+  "refs": [
+   "1"
+  ],
+  "pred": "3",
+  "nll": 2.21549129486084,
+  "gen_time_s": 0.0324496328830719
+ },
+ {
+  "ex": 45593,
+  "pair_id": "cnt_val_67_146358_200234",
+  "qtype": "counting",
+  "img": "val2014/200234",
+  "image_used": "val2014/146358",
+  "question": "How many dining tables can you see?",
+  "target": "4",
+  "refs": [
+   "4"
+  ],
+  "pred": "1",
+  "nll": 3.263066291809082,
+  "gen_time_s": 0.0324496328830719
+ },
+ {
+  "ex": 45594,
+  "pair_id": "cnt_val_35_161011_425790",
+  "qtype": "counting",
+  "img": "val2014/161011",
+  "image_used": "val2014/425790",
+  "question": "How many skis can you see?",
+  "target": "3",
+  "refs": [
+   "3"
+  ],
+  "pred": "4",
+  "nll": 2.022359848022461,
+  "gen_time_s": 0.0324496328830719
+ },
+ {
+  "ex": 45595,
+  "pair_id": "cnt_val_35_161011_425790",
+  "qtype": "counting",
+  "img": "val2014/425790",
+  "image_used": "val2014/161011",
+  "question": "How many skis can you see?",
+  "target": "4",
+  "refs": [
+   "4"
+  ],
+  "pred": "3",
+  "nll": 2.019676685333252,
+  "gen_time_s": 0.0324496328830719
+ },
+ {
+  "ex": 45596,
+  "pair_id": "cnt_val_64_261061_361238",
+  "qtype": "counting",
+  "img": "val2014/261061",
+  "image_used": "val2014/361238",
+  "question": "How many potted plants can you see?",
+  "target": "3",
+  "refs": [
+   "3"
+  ],
+  "pred": "1",
+  "nll": 2.099318742752075,
+  "gen_time_s": 0.0324496328830719
+ },
+ {
+  "ex": 45597,
+  "pair_id": "cnt_val_64_261061_361238",
+  "qtype": "counting",
+  "img": "val2014/361238",
+  "image_used": "val2014/261061",
+  "question": "How many potted plants can you see?",
+  "target": "1",
+  "refs": [
+   "1"
+  ],
+  "pred": "2",
+  "nll": 1.1649267673492432,
+  "gen_time_s": 0.0324496328830719
+ },
+ {
+  "ex": 45598,
+  "pair_id": "cnt_val_50_1153_368679",
+  "qtype": "counting",
+  "img": "val2014/1153",
+  "image_used": "val2014/368679",
+  "question": "How many spoons can you see?",
+  "target": "2",
+  "refs": [
+   "2"
+  ],
+  "pred": "1",
+  "nll": 1.080228328704834,
+  "gen_time_s": 0.0324496328830719
+ },
+ {
+  "ex": 45599,
+  "pair_id": "cnt_val_50_1153_368679",
+  "qtype": "counting",
+  "img": "val2014/368679",
+  "image_used": "val2014/1153",
+  "question": "How many spoons can you see?",
+  "target": "3",
+  "refs": [
+   "3"
+  ],
+  "pred": "2",
+  "nll": 1.3421093225479126,
+  "gen_time_s": 0.0324496328830719
+ }
+]

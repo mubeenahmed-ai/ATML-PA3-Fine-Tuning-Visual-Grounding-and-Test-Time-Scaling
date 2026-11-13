@@ -1,0 +1,24 @@
+{
+  "condition": "baseline",
+  "task": "boolq",
+  "primary_metric": "acc,none",
+  "primary": 0.6434250764525994,
+  "metrics": {
+    "sample_len": 3270,
+    "acc,none": 0.6434250764525994,
+    "acc_stderr,none": 0.00837754809941546
+  },
+  "n": 3270,
+  "eval_time_s": 201.47350907325745,
+  "lm_eval_config": {
+    "model": "Qwen/Qwen3-0.6B",
+    "model_num_parameters": 596049920,
+    "model_revision": "main",
+    "model_sha": "",
+    "bootstrap_iters": 100000,
+    "random_seed": 6304,
+    "numpy_seed": 6304,
+    "torch_seed": 6304,
+    "fewshot_seed": 6304
+  }
+}

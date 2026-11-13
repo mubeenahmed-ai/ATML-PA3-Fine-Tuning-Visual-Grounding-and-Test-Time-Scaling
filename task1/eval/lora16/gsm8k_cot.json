@@ -1,0 +1,30 @@
+{
+  "condition": "lora16",
+  "task": "gsm8k_cot",
+  "primary_metric": "exact_match,flexible-extract",
+  "primary": 0.6110689916603488,
+  "metrics": {
+    "sample_len": 1319,
+    "exact_match,strict-match": 0.0,
+    "exact_match_stderr,strict-match": 0.0,
+    "exact_match,flexible-extract": 0.6110689916603488,
+    "exact_match_stderr,flexible-extract": 0.013428382481274249,
+    "prompt_has_empty_think_block": true,
+    "truncation_rate": 0.008339651250947688,
+    "unextractable_rate_flexible": 0.000758150113722517,
+    "mean_response_tokens": 141.39120545868082
+  },
+  "n": 1319,
+  "eval_time_s": 820.2829024791718,
+  "lm_eval_config": {
+    "model": "/content/task1_local/merged/lora16",
+    "model_num_parameters": 596049920,
+    "model_revision": "main",
+    "model_sha": "",
+    "bootstrap_iters": 100000,
+    "random_seed": 6304,
+    "numpy_seed": 6304,
+    "torch_seed": 6304,
+    "fewshot_seed": 6304
+  }
+}

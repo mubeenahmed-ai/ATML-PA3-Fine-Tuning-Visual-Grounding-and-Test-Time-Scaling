@@ -1,0 +1,30 @@
+{
+  "condition": "full_ft_mid",
+  "task": "gsm8k_cot",
+  "primary_metric": "exact_match,flexible-extract",
+  "primary": 0.5716451857467779,
+  "metrics": {
+    "sample_len": 1319,
+    "exact_match,strict-match": 0.0,
+    "exact_match_stderr,strict-match": 0.0,
+    "exact_match,flexible-extract": 0.5716451857467779,
+    "exact_match_stderr,flexible-extract": 0.013630362189382145,
+    "prompt_has_empty_think_block": true,
+    "truncation_rate": 0.009097801364670205,
+    "unextractable_rate_flexible": 0.0,
+    "mean_response_tokens": 141.60045489006822
+  },
+  "n": 1319,
+  "eval_time_s": 8042.971484184265,
+  "lm_eval_config": {
+    "model": "/content/drive/MyDrive/ATML_PA3/task1/runs/full_ft/midpoint",
+    "model_num_parameters": 596049920,
+    "model_revision": "main",
+    "model_sha": "",
+    "bootstrap_iters": 100000,
+    "random_seed": 6304,
+    "numpy_seed": 6304,
+    "torch_seed": 6304,
+    "fewshot_seed": 6304
+  }
+}

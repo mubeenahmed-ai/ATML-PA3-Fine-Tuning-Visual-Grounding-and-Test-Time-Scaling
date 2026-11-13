@@ -1,0 +1,32 @@
+{
+ "rows": 32000,
+ "questions": 1000,
+ "rollouts_per_question": [
+  32
+ ],
+ "len(logp)!=len(kl)": 0,
+ "len(token_ids)-len(logp) counts": {
+  "0": 32000
+ },
+ "n_tokens-len(logp) counts": {
+  "0": 32000
+ },
+ "hit_max_new_tokens_rate": 0.01634375,
+ "matches_README_totals": {
+  "retained_tokens": [
+   20742094,
+   20742094,
+   true
+  ],
+  "capped": [
+   523,
+   523,
+   true
+  ],
+  "null_extracted": [
+   521,
+   521,
+   true
+  ]
+ }
+}

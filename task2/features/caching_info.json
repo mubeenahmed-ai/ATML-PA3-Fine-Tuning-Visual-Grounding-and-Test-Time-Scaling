@@ -1,0 +1,11 @@
+{
+ "download_s": 118.46788430213928,
+ "encode_s": 220.25972056388855,
+ "peak_gpu_mem_GB": 1.762681007385254,
+ "n_images": 9279,
+ "feature_dtype": "float16",
+ "shape": [
+  196,
+  768
+ ]
+}

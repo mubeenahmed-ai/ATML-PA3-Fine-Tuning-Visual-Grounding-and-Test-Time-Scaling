@@ -1,0 +1,24 @@
+{
+  "condition": "lora16",
+  "task": "boolq",
+  "primary_metric": "acc,none",
+  "primary": 0.7241590214067278,
+  "metrics": {
+    "sample_len": 3270,
+    "acc,none": 0.7241590214067278,
+    "acc_stderr,none": 0.007816978272864733
+  },
+  "n": 3270,
+  "eval_time_s": 35.97669315338135,
+  "lm_eval_config": {
+    "model": "/content/task1_local/merged/lora16",
+    "model_num_parameters": 596049920,
+    "model_revision": "main",
+    "model_sha": "",
+    "bootstrap_iters": 100000,
+    "random_seed": 6304,
+    "numpy_seed": 6304,
+    "torch_seed": 6304,
+    "fewshot_seed": 6304
+  }
+}

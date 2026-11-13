@@ -1,0 +1,35 @@
+{
+ "rows": 32000,
+ "questions": 1000,
+ "rollouts_per_question": [
+  32
+ ],
+ "len(logp)!=len(kl)": 0,
+ "len(token_ids)-len(logp) counts": {
+  "0": 32000
+ },
+ "n_tokens-len(logp) counts": {
+  "0": 32000
+ },
+ "hit_max_new_tokens_rate": 0.01521875,
+ "matches_README_totals": {
+  "retained_tokens": [
+   8961703,
+   8961703,
+   true
+  ],
+  "capped": [
+   487,
+   487,
+   true
+  ],
+  "null_extracted": [
+   3032,
+   3032,
+   true
+  ]
+ },
+ "len(att_img)!=len(logp)": 0,
+ "len(att_prompt)!=len(logp)": 0,
+ "len(att_gen)!=len(logp)": 0
+}
